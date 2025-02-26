@@ -1,6 +1,6 @@
 # TDR Studio
 
-歡迎來到 **TDR Studio** 的官方 GitHub！
+歡迎來到 **TDR Studio** 的非官方官方 GitHub！
 
 ## 關於我們
 
